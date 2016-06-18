@@ -1,0 +1,7 @@
+[package]
+name = "glium-postproc-test"
+version = "0.1.0"
+authors = ["Miranda Kastemaa <miranda@foldplop.com>"]
+
+[dependencies]
+glium = "0.14"
